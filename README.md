@@ -23,12 +23,12 @@ Emad Hashash, Dua'a Nawwas
 
 ### Wireframe
 
-    ![home](./WireframeMockup/Home%20page%20w.png)
-    ![home](./WireframeMockup/Group%201.png)
-    ![tasks](./WireframeMockup/Task%20page%20w.png)
+ ![Home page w](https://user-images.githubusercontent.com/108795912/187040585-01caadf1-9e39-473c-a547-24ddf51d1128.png)
+![Group 1](https://user-images.githubusercontent.com/108795912/187040597-7b655d2a-0cbe-4dca-9b04-ac5dad72bb67.png)
+![Task page w](https://user-images.githubusercontent.com/108795912/187040603-0552b4d3-9102-4043-9c7f-933a1d172cf8.png)
+
 
 ### Mockup
-
-    ![home](./WireframeMockup/Home%20page.png)
-    ![home](./WireframeMockup/Home%20page%20dark.png)
-    ![tasks](./WireframeMockup/Task%20page.png)
+![Home page](https://user-images.githubusercontent.com/108795912/187040613-8de5b086-3262-43d8-b451-7e7d7f85792a.png)
+![Home page dark](https://user-images.githubusercontent.com/108795912/187040616-5a3ee19d-90ca-4b6d-98a0-aec2d2c53c57.png)
+![Task page](https://user-images.githubusercontent.com/108795912/187040621-bdddad82-5979-459c-b7db-f878d026fd27.png)
